@@ -85,6 +85,17 @@
                             <constraint firstItem="cnA-L5-Nt5" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="53" id="zzU-Sj-Lav"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="buttonOutletEight" destination="Yng-V8-Z0o" id="6Zf-ki-L70"/>
+                        <outlet property="buttonOutletFive" destination="Akc-kt-jEe" id="m96-tF-qWB"/>
+                        <outlet property="buttonOutletFour" destination="iNZ-tf-Igv" id="QOY-MG-3dg"/>
+                        <outlet property="buttonOutletOne" destination="Pcd-8F-ZGh" id="55N-oc-7cd"/>
+                        <outlet property="buttonOutletSeven" destination="5uV-MU-AKS" id="Bmi-Ms-TnZ"/>
+                        <outlet property="buttonOutletSix" destination="6Ud-JF-zgS" id="toL-bd-L8i"/>
+                        <outlet property="buttonOutletThree" destination="Og6-Ap-4L8" id="JUd-md-ERk"/>
+                        <outlet property="buttonOutletTwo" destination="cnA-L5-Nt5" id="KZZ-wO-j6g"/>
+                        <outlet property="buttonOutletZero" destination="DBO-yt-nwm" id="XDJ-OT-ONm"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
